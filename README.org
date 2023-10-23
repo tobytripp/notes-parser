@@ -1,0 +1,6 @@
+* Parsec Org-Mode Notes Parser
+** Running
+
+#+begin_src sh
+  stack run ~/path/to/notes.org > out.txt
+#+end_src
