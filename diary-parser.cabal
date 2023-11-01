@@ -6,22 +6,21 @@ cabal-version: 2.2
 
 name:           diary-parser
 version:        0.1.0.0
-description:    Please see the README on GitHub at <https://github.com/githubuser/diary-parser#readme>
-homepage:       https://github.com/githubuser/diary-parser#readme
-bug-reports:    https://github.com/githubuser/diary-parser/issues
-author:         Author name here
-maintainer:     example@example.com
-copyright:      2023 Author name here
+description:    Please see the README on GitHub at <https://github.com/tobytripp/diary-parser#readme>
+homepage:       https://github.com/tobytripp/diary-parser#readme
+bug-reports:    https://github.com/tobytripp/diary-parser/issues
+author:         Toby Tripp
+maintainer:     toby.tripp@gmail.com
+copyright:      2023 Toby Tripp
 license:        BSD-3-Clause
 license-file:   LICENSE
 build-type:     Simple
 extra-source-files:
-    README.md
-    CHANGELOG.md
+    README.org
 
 source-repository head
   type: git
-  location: https://github.com/githubuser/diary-parser
+  location: https://github.com/tobytripp/diary-parser
 
 library
   exposed-modules:
